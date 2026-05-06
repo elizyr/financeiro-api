@@ -1,5 +1,7 @@
 # Financeiro API
 
+![Swagger UI](swagger-ui.png)
+
 API REST de Controle Financeiro Pessoal com autenticação JWT.
 
 ## Tecnologias
